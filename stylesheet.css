@@ -1,0 +1,40 @@
+h3 {
+  font-family: Calibri;
+  font-size: 25pt;
+  font-style: normal;
+  font-weight: bold;
+  color: SlateBlue;
+  text-align: center;
+  text-decoration: underline;
+}
+
+table {
+  font-family: Calibri;
+  color: white;
+  font-size: 11pt;
+  font-style: normal;
+  font-weight: bold;
+
+  background-color: #8987ef;
+  border-collapse: collapse;
+  border: 2px solid navy;
+}
+table.inner {
+  border: 0px;
+}
+
+body {
+  background-color: rgba(250, 0, 255, 0.25);
+}
+table {
+  align-content: center;
+}
+button {
+  display: inline-block;
+  background-color: aliceblue;
+  padding: 10px;
+  width: 100px;
+  color: slateblue;
+  text-align: center;
+  border-radius: 2px;
+}
